@@ -12,6 +12,15 @@ The GeeksforGeeks POTD Solutions repository aims to provide solutions to the dai
 
 The solutions provided here are intended to serve as a reference and learning resource for individuals interested in improving their problem-solving skills and understanding different algorithms and data structures. However, it is important to note that these solutions may not be the only or most optimal solutions to the given problems. They are meant to provide one possible solution to each problem.
 
+## File Structure
+
+![Screenshot (128)](https://github.com/thakurdiwakar/GFG-POTD/assets/76618190/842d632e-88c7-4e35-97c2-ec7113ed0838)
+
+
+
+
+
+
 
 ## Contributing
 
