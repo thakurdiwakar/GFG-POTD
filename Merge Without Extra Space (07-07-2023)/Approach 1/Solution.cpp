@@ -7,41 +7,11 @@ using namespace std;
 class Solution{
     public:
         //Function to merge the arrays.
-        
-        //void rotate(long long arr1[], long long arr2[], int n, int m, int count)
-        //{
-            
-        
-            
-            
-       // }
-        
-        
-        
-        
         void merge(long long arr1[], long long arr2[], int n, int m) 
         { 
-         //int max1 = n-1; 
-          
-         /*
-         while(count!=0);
-         int i=0, count=-1;
-         while(i<n&&i<m)
-         {
-           if(arr2[i]<arr1[max1]){
-               count++; 
-           } 
-         i++;
-         }
-         
-         int temp= arr1[max1]; 
-         arr1[max1]= arr2[count]; 
-         arr2[count]= temp; 
-          
-          */
           int i=0, max1 = n-1,count=0; 
           
-          //compare intial elements of array 2 to last element of arr1
+          //compare intial elements of arr2 to last element of arr1
             
           while(i<n&&i<m)
           {
@@ -52,6 +22,7 @@ class Solution{
               }
             i++;
           }
+	  // Sorting both arrays 
           sort(arr1, arr1+n);
           sort(arr2, arr2+m);
            
