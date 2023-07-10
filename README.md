@@ -14,7 +14,8 @@ The solutions provided here are intended to serve as a reference and learning re
 
 ## File Structure
 
-![Screenshot (128)](https://github.com/thakurdiwakar/GFG-POTD/assets/76618190/842d632e-88c7-4e35-97c2-ec7113ed0838)
+![Screenshot (129)](https://github.com/thakurdiwakar/GFG-POTD/assets/76618190/559951bd-44a3-4cd6-b193-45bb60219c42)
+
 
 
 
