@@ -6,7 +6,8 @@ This repository contains the solutions to the GeeksforGeeks Problem of the Day (
 
 ## Introduction
 
-![68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f696d672d70726163746963652f50726f626c656d6f667468656461796e6577636f70792d313633373634303538392e706e67](https://github.com/thakurdiwakar/GFG-POTD/assets/76618190/46a8a43e-53e1-42cc-bbdc-0020d46c7ef4)
+![68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f696d672d70726163746963652f50726f626c656d6f667468656461796e6577636f70792d313633373634303538392e706e67](https://github.com/thakurdiwakar/GFG-POTD/assets/76618190/d5a54f9f-6873-4032-b0eb-4f84f4be1657)
+
 
 The GeeksforGeeks POTD Solutions repository aims to provide solutions to the daily programming problems offered by GeeksforGeeks. These solutions are implemented in various programming languages and cover a wide range of topics, including data structures, algorithms, dynamic programming, graph theory, and more.
 
@@ -14,7 +15,8 @@ The solutions provided here are intended to serve as a reference and learning re
 
 ## File Structure
 
-![Screenshot (129)](https://github.com/thakurdiwakar/GFG-POTD/assets/76618190/559951bd-44a3-4cd6-b193-45bb60219c42)
+![Screenshot (129)](https://github.com/thakurdiwakar/GFG-POTD/assets/76618190/a4d30a28-54a1-4bec-8cbd-1f9d79b3b594)
+
 
 
 
