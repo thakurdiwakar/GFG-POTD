@@ -7,5 +7,6 @@ class Solution:
         #code here
         for i in s:
             if s.count(i)==1:
+                 # Return the first non-repeating character found.
                 return i
         return '$'
